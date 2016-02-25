@@ -5,3 +5,5 @@ My personal ESLint configuration. Don't use it unless you're me (you're probably
 ```
 $ npm install eslint-config-0x8890
 ```
+
+It's compatible with ESLint `2.x`.
