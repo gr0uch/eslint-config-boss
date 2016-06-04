@@ -1,9 +1,14 @@
-# eslint-config-0x8890
+# JavaScript Boss Style
 
-My personal ESLint configuration. Don't use it unless you're me (you're probably not me), but if you want to:
+Write JavaScript like a boss. For boss coders writing boss code.
 
 ```
-$ npm install eslint-config-0x8890
+$ npm install eslint-config-boss
 ```
 
-It's compatible with ESLint `2.x`.
+It's compatible with ESLint `2.x`, and comes with rules for these ECMAScript versions:
+
+- **ES5**: `require('eslint-config-boss/es5')`
+- **ES6**: `require('eslint-config-boss/es6')`
+
+The latest version is the default one.

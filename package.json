@@ -1,17 +1,19 @@
 {
-  "name": "eslint-config-0x8890",
-  "version": "1.0.2",
-  "description": "ESLint shareable configuration.",
+  "name": "eslint-config-boss",
+  "version": "1.0.3",
+  "description": "Write JavaScript like a boss.",
   "license": "CC0",
   "repository": {
     "type": "git",
-    "url": "git@github.com:0x8890/eslint-config-0x8890.git"
+    "url": "git@github.com:0x8890/eslint-config-boss.git"
   },
   "author": {
     "email": "0x8890@airmail.cc",
     "url": "http://0x8890.com"
   },
-  "files": [
-    "index.js"
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config"
   ]
 }
