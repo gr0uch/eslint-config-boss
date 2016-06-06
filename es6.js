@@ -86,6 +86,7 @@ module.exports = {
     "no-with": 2,
     "one-var": [ 2, "never" ],
     "padded-blocks": [ 2, "never" ],
+    "prefer-const": 2,
     "quotes": [ 2, "single" ],
     "radix": 2,
     "semi": [ 2, "never" ],
