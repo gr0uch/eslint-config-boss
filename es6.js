@@ -28,7 +28,7 @@ module.exports = {
     "new-cap": 2,
     "no-caller": 2,
     "no-cond-assign": [ 2, "always" ],
-    "no-console": 2,
+    "no-console": 1,
     "no-constant-condition": 2,
     "no-debugger": 2,
     "no-dupe-keys": 2,
