@@ -87,6 +87,7 @@ module.exports = {
     "one-var": [ 2, "never" ],
     "padded-blocks": [ 2, "never" ],
     "prefer-const": 2,
+    "prefer-template": 2,
     "quotes": [ 2, "single" ],
     "radix": 2,
     "semi": [ 2, "never" ],
