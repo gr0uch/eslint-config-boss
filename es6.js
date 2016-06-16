@@ -98,7 +98,7 @@ module.exports = {
     "strict": [ 2, "never" ],
     "use-isnan": 2,
     "vars-on-top": 2,
-    "wrap-iife": 2,
+    "wrap-iife": 0,
     "yoda": 2
   }
 }
