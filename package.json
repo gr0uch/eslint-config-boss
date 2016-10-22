@@ -1,15 +1,11 @@
 {
   "name": "eslint-config-boss",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Write JavaScript like a boss.",
   "license": "CC0",
   "repository": {
     "type": "git",
-    "url": "git@github.com:0x8890/eslint-config-boss.git"
-  },
-  "author": {
-    "email": "0x8890@airmail.cc",
-    "url": "http://0x8890.com"
+    "url": "git@github.com:sapeien/eslint-config-boss.git"
   },
   "keywords": [
     "eslint",
